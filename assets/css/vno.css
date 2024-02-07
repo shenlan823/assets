@@ -43,7 +43,7 @@ body {
 }
 
 .ih-item.circle.effect .info h2 {
-    color: #fff;
+    color: rgb(238, 234, 217);
     position: relative;
     font-size: 18px;
     margin: 0 auto;
